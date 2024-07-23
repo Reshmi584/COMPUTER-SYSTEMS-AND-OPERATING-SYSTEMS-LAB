@@ -1,5 +1,5 @@
 #Program File
-![program file](PROGRAM1A.PNG)
+![program file](PROGARM1A.PNG)
 
 #Sample Output
 ![program file](1AOUTPUT.PNG)
