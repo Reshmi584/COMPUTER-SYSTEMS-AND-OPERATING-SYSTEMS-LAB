@@ -1,3 +1,25 @@
+#Priority 9a
+#Program File
+![program file](FCFS_Code_584.PNG)
+![program file](FCFS_584.c)
+
+#Sample Output
+![program file](FCFS_IO_584.PNG)
+
+#Tested Output
+![program file](FCFS_EO_584.PNG)
+
+#SJF 9b
+#Program File
+![program file](SJF_Code_584.PNG)
+![program file](SJF_584.c)
+
+#Sample Output
+![program file](SJF_IO_584.PNG)
+
+#Tested Output
+![program file](SJF_EO_584.PNG)
+
 #RoundRobin 9c
 #Program File
 ![program file](RoundRobin_Code_584.PNG)
