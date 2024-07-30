@@ -6,4 +6,4 @@
 ![program file](SampleInputOutput9c.PNG)
 
 #Tested Output
-![program file](TestedOutput9c.PNG)
+![program file](TestedInputOutput9c.PNG)
