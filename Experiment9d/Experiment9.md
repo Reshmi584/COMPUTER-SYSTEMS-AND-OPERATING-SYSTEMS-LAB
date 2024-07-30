@@ -1,4 +1,4 @@
-#Priority 9a
+#FCFS 9a
 #Program File
 ![program file](FCFS_Code_584.PNG)
 ![program file](FCFS_584.c)
