@@ -1,6 +1,6 @@
 #MFT 10a
 #Program File
-![program file](MFT_Code_584.PNG)
+![program file](MFT_code_584.PNG)
 ![program file](MFT_584.c)
 
 #Sample Output
@@ -11,7 +11,7 @@
 
 #MVT 10b
 #Program File
-![program file](MVT_Code_584.PNG)
+![program file](MVT_code_584.PNG)
 ![program file](MVT_584.c)
 
 #Sample Output
