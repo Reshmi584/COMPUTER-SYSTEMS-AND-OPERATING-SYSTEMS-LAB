@@ -14,7 +14,6 @@
 #LINKED 16b 
 #Program File
 ![program file](LINKED_CODE_584.PNG)
-![program file](LINKED_CODE1_584.PNG)
 ![program file](LINKED_584.c)
 
 #Sample Output
